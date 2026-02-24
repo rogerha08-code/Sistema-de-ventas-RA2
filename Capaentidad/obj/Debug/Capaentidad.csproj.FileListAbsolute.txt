@@ -1,0 +1,6 @@
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Sistema ventas\Capaentidad\bin\Debug\Capaentidad.dll
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Sistema ventas\Capaentidad\bin\Debug\Capaentidad.pdb
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Sistema ventas\Capaentidad\obj\Debug\Capaentidad.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Sistema ventas\Capaentidad\obj\Debug\Capaentidad.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Sistema ventas\Capaentidad\obj\Debug\Capaentidad.dll
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Sistema ventas\Capaentidad\obj\Debug\Capaentidad.pdb
